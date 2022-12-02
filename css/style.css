@@ -27,7 +27,6 @@
     position: relative;
     width: 150px;
     height: 150px;
-    background: var(--red);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -36,6 +35,7 @@
     overflow: hidden;
 }
 .txt-box {
+    background: var(--red);
     display: flex;
     justify-content: center;
     align-items: center;
